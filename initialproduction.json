@@ -1,0 +1,968 @@
+{"production": [
+{"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.05,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 3600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 3600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP.Ocean_Basilosaurus_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 900.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Cockatrice/Cockatrice/Cockatrice_Character_BP.Cockatrice_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/TheSunkenWorldAdditions/Assets/Creatures/SeaUrchin/UrchinTSW_Character_BP.UrchinTSW_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 960.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_UrchinRoe.PrimalItemConsumable_UrchinRoe'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/TheSunkenWorldAdditions/Assets/Weapons/WeapHarpoonUrchin/PrimalItemAmmo_UrchinBolt.PrimalItemAmmo_UrchinBolt'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 28800.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Aberration/WeaponGlowStickCharge/PrimalItem_ChargeBattery.PrimalItem_ChargeBattery'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 28800.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Hesperonis_Golden.PrimalItemConsumable_Egg_Hesperonis_Golden'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character'", 
+"produces":[
+{
+"intervalSeconds": 10800.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Majungasaurus/Majunga/Majunga_Character_BP.Majunga_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Majungasaurus/Majunga/Saliva/PrimalItemConsumable_Saliva.PrimalItemConsumable_Saliva'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Majungasaurus/Majunga/Majungacorn/Majungacorn_Character_BP.Majungacorn_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Majungasaurus/Majunga/Saliva/PrimalItemConsumable_Saliva.PrimalItemConsumable_Saliva'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Majungasaurus/Majunga/Aberrant/Majunga_Character_BP_Aberrant.Majunga_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Majungasaurus/Majunga/Saliva/PrimalItemConsumable_Saliva.PrimalItemConsumable_Saliva'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 3600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/Dinos/Owl/Pellet/PrimalItemConsumable_OwlPellet.PrimalItemConsumable_OwlPellet'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire'", 
+"produces":[
+{
+"intervalSeconds": 10800.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning'", 
+"produces":[
+{
+"intervalSeconds": 10800.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison'", 
+"produces":[
+{
+"intervalSeconds": 10800.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/TheSunkenWorldAdditions/Assets/Creatures/Bothriolepis/BothriTSW_Character_BP.BothriTSW_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/TheSunkenWorldAdditions/Assets/Creatures/Lepidotes/LepiTSW_Character_BP.LepiTSW_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemResources/PrimalItemResource_SeaScales.PrimalItemResource_SeaScales'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 3600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/TheSunkenWorldAdditions/Assets/Blueprints/PrimalItemConsumables/PrimalItemConsumable_Kelp.PrimalItemConsumable_Kelp'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 7200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/AAArchelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae.PrimalItemConsumable_Veggie_TurtleAlgae'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Blueprints/MoroTylosaurus_character_bp.MoroTylosaurus_character_bp'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_TranqVenom_M.PrimalItemConsumable_TranqVenom_M'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_DeadlyVenom_M.PrimalItemConsumable_DeadlyVenom_M'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/MorosTylosaurus/Dinos/Tylosaurus/Items/PrimalItemConsumable_PheromoneVenom_M.PrimalItemConsumable_PheromoneVenom_M'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Eocarcharia_TA_Chartacter_BP_C.Eocarcharia_TA_Chartacter_BP_C'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_BlueMushroom.PrimalItemResource_BlueMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_GreenMushroom.PrimalItemResource_GreenMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_PurpleMushroom.PrimalItemResource_PurpleMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_RedMushroom.PrimalItemResource_RedMushroom'"
+],
+"alternateItems": [
+
+]
+}
+]},
+{"dinoType": "Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/SE/SE_Eocarcharia_TA_Chartacter_BP_C_Child.SE_Eocarcharia_TA_Chartacter_BP_C_Child'", 
+"produces":[
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_BlueMushroom.PrimalItemResource_BlueMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_GreenMushroom.PrimalItemResource_GreenMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_PurpleMushroom.PrimalItemResource_PurpleMushroom'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 300.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_RedMushroom.PrimalItemResource_RedMushroom'"
+],
+"alternateItems": [
+
+]
+}
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 600.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character'", 
+"produces":[
+{
+"intervalSeconds": 720.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character_Aberrant.Trilobite_Character_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 720.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 1200.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+
+]
+}
+
+]}
+
+
+]
+}
